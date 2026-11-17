@@ -1,0 +1,8 @@
+{
+  "name": "anniversary-ring",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node tests/browser.cjs && node tests/dates.mjs" },
+  "devDependencies": { "playwright": "1.61.1" }
+}
